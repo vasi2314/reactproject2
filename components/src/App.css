@@ -1,0 +1,19 @@
+ img{
+   width:150px;
+  /* height: 100px; */
+}
+.v{
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  /* gap: 20%; */
+  margin-top: 2%;
+  margin-left: 2%;
+
+}
+.v1{
+  width: 100px;
+  /* height: 100px; */
+ }
+/* table,tr,td,th{
+  border:  1px solid black;
+} */
