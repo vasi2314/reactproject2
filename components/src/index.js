@@ -16,6 +16,8 @@ import Object from './Details/Object';
 import Object1 from './Details/Object1';
 import Object2 from './Details/Object2';
 import Object3 from './Details/Object3';
+import State from './Details/Useeffect';
+import Useeffect from './Details/Useeffect';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
@@ -32,8 +34,9 @@ root.render(
     {/* <Form7/> */}
     {/* <Object/> */}
     {/* <Object1/> */}
-    <Object2/>
+    {/* <Object2/> */}
     {/* <Object3/> */}
+    <Useeffect/>
 
   
   </React.StrictMode>
