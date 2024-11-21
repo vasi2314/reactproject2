@@ -18,6 +18,8 @@ import Object2 from './Details/Object2';
 import Object3 from './Details/Object3';
 import State from './Details/Useeffect';
 import Useeffect from './Details/Useeffect';
+import Usecontext from './Details/Usecontext';
+import Task1 from './Details/Task1';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
@@ -36,7 +38,9 @@ root.render(
     {/* <Object1/> */}
     {/* <Object2/> */}
     {/* <Object3/> */}
-    <Useeffect/>
+    {/* <Useeffect/> */}
+    {/* <Usecontext/> */}
+    <Task1/>
 
   
   </React.StrictMode>
